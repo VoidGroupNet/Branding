@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg41"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="voidgroup-pure.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="500mm"
+     inkscape:zoom="0.18529742"
+     inkscape:cx="1416.6414"
+     inkscape:cy="903.95215"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g64" />
+  <defs
+     id="defs38" />
+  <g
+     inkscape:label="Icon"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g64"
+       transform="matrix(1.3639038,0,0,1.5669793,-260.24429,-134.8441)"
+       inkscape:label="Icon Group">
+      <line
+         id="line1780"
+         x1="524.10577"
+         y1="101.09615"
+         x2="409.85873"
+         y2="321.21317"
+         style="fill:#5d58b9;stroke:#5d58b9;stroke-width:70px;fill-opacity:1;stroke-opacity:1"
+         inkscape:label="Icon-Right" />
+      <line
+         id="line1778"
+         x1="224.10574"
+         y1="101.09615"
+         x2="374.10574"
+         y2="390.09616"
+         style="fill:#5d58b9;stroke:#5d58b9;stroke-width:70px;fill-opacity:1;stroke-opacity:1"
+         inkscape:label="Icon-Left" />
+    </g>
+  </g>
+</svg>
